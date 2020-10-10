@@ -2,23 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="95fde6e3-a895-4116-afcd-9149af2e5fae" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/common/post-fs-data.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/service.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/system.prop" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/install.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/META-INF/com/google/android/update-binary" beforeDir="false" afterPath="$PROJECT_DIR$/META-INF/com/google/android/update-binary" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/META-INF/com/google/android/updater-script" beforeDir="false" afterPath="$PROJECT_DIR$/META-INF/com/google/android/updater-script" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common/addon/placeholder" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/common/functions.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/common/install.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/customize.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/module.prop" beforeDir="false" afterPath="$PROJECT_DIR$/module.prop" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/system/placeholder" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uninstall.sh" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/system.prop" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/install.sh" beforeDir="false" afterPath="$PROJECT_DIR$/install.sh" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +44,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1602310320934</updated>
-      <workItem from="1602310322000" duration="593000" />
+      <workItem from="1602310322000" duration="774000" />
+      <workItem from="1602311517280" duration="83000" />
     </task>
     <servers />
   </component>
