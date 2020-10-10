@@ -123,7 +123,7 @@ REPLACE="
 
 print_modname() {
   ui_print "*******************************"
-  ui_print "  AirAudio/AirMusic - stream your music! "
+  ui_print "  WPT change user "
   ui_print "*******************************"
 }
 

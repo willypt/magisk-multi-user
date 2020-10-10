@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="95fde6e3-a895-4116-afcd-9149af2e5fae" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/system.prop" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MagiskMultiUser.zip" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/install.sh" beforeDir="false" afterPath="$PROJECT_DIR$/install.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module.prop" beforeDir="false" afterPath="$PROJECT_DIR$/module.prop" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +45,7 @@
       <option name="presentableId" value="Default" />
       <updated>1602310320934</updated>
       <workItem from="1602310322000" duration="774000" />
-      <workItem from="1602311517280" duration="83000" />
+      <workItem from="1602311517280" duration="174000" />
     </task>
     <servers />
   </component>
@@ -61,5 +61,9 @@
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
     <state x="585" y="416" key="chooseDestDirectoryDialog/0.23.1920.1057@0.23.1920.1057" timestamp="1602310721051" />
+    <state x="1144" y="279" width="592" height="544" key="find.popup" timestamp="1602311690144">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="1144" y="279" width="592" height="544" key="find.popup/0.23.1920.1057@0.23.1920.1057" timestamp="1602311690144" />
   </component>
 </project>
